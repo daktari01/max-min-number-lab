@@ -1,6 +1,6 @@
 language: python
 python:
-  - 3.4
+  - "3.4"
 install:
   - pip3 install unittest2
 script: python testMaxAndMinValues.py
