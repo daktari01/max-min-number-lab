@@ -1,3 +1,7 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/daktari01/max-min-number-lab/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/daktari01/max-min-number-lab/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/daktari01/max-min-number-lab/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/daktari01/max-min-number-lab/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/daktari01/max-min-number-lab/badges/build.png?b=master)](https://scrutinizer-ci.com/g/daktari01/max-min-number-lab/build-status/master)
+
 ## Maximum and Mininum Number in a list
 
 You need to get the min and max number in a list.
